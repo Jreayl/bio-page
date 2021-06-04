@@ -1,0 +1,75 @@
+html, body {
+    background-color: rgb(24, 24, 24);
+    color:rgb(79, 182, 250);
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: -10px;
+}
+h2 {
+    text-align: center;
+    font-style: italic;
+    font-size: 12px;
+    margin-bottom: 25px;
+}
+hr {
+    height: 1px;
+    width: 500px;
+    background-color: rgb(79, 182, 250);
+    border: none;
+}
+.hr4 {
+    height: 450px;
+    width: 1px;
+    margin-left: 502px;
+    margin-top: 0;
+    margin-bottom: -450px;
+}
+.hr5 {
+    width: 900px;
+    margin-top: 50px;
+}
+.hr6 {
+    height: 450px;
+    width: 1px;
+    margin-top: -459px;
+    margin-right: 502px;
+}
+.navbar {
+    text-align: center;
+}
+.about-hdr {
+    display: block;
+    margin-left: 520px;
+    margin-top: 25px;
+}
+.about-content {
+    margin-left: 520px;
+    margin-right: 520px;
+}
+.language-list {
+    margin-left: 520px;
+    margin-right: 520px;
+}
+.hr3 {
+    width: 900px;
+    margin: auto;
+    margin-top: 50px;
+}
+a {
+    text-decoration: none;
+    color: rgb(79, 182, 250);
+    padding: 40px;
+}
+a:hover {
+    color: rgb(183, 226, 255);
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 500px;
+    height: 500px;
+}
