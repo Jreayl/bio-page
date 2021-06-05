@@ -7,7 +7,7 @@ and learned to add links to seperate pages including:
 * home
 * bio
 * portfolio
-* contact\  
+* contact  
 
 This webpage is still a WIP and I plan to add more content to each page and potentially change the styles and formatting. Addittionaly,
 I plan to make more projects to add to my portfolio page.
